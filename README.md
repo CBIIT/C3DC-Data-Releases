@@ -1,15 +1,13 @@
-# CDS-Data-Releases
+# C3DC-Data-Releases
 
-This repository is designated for managing the release notes of the CDS Data. It contains branches corresponding to various environments such as DEV, QA, STAGE, PROD.
+This repository is designated for managing the release notes of the C3DC Data. It contains branches corresponding to various environments such as DEV, QA, STAGE, PROD.
 
 | Environment | Linked Branch |  |
 |-------------|---------------|--|
-| CDS-PROD    | prod          |🔒|
-| CDS-STAGE   | stage         |🔒|
-| CDS-QA      | qa            |🔒|
-| CDS-DEV     | dev           |🔒|
-| CDS-QA2     | qa2           |🔒|
-| CDS-DEV2    | dev2          |🔒|
+| C3DC-PROD    | prod          |🔒|
+| C3DC-STAGE   | stage         |🔒|
+| C3DC-QA      | qa            |🔒|
+| C3DC-DEV     | dev           |🔒|
 
 > ❗ **NOTE:** Branches are protected. Direct commits cannot be made to any of these branches.
 
