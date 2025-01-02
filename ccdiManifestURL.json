@@ -14,6 +14,7 @@
   },
   "phs000469": {
     "phs000469_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs000469/phs000469_CCDI_Study_Manifest_v2.0.0.xlsx",
+    "isTarget": true
   },
   "phs000470": {
     "TARGET_RT_ClinicalData_Discovery_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/TARGET-RT_clinicalData_PUBLIC_20220209/TARGET_RT_ClinicalData_Discovery_20211111.xlsx",
