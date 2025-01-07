@@ -1,29 +1,30 @@
 {
   "phs000466": {
-    "TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/TARGET-CCSK_clinicalData_PUBLIC_20220207/TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx",
+    "TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000466/TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx",
     "isTarget": true
   },
   "phs000467": {
-    "TARGET_NBL_ClinicalData_Discovery_20220125.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target-nbl/TARGET_NBL_ClinicalData_Discovery_20220125.xlsx",
-    "TARGET_NBL_ClinicalData_Validation_20220125.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target-nbl/TARGET_NBL_ClinicalData_Validation_20220125.xlsx",
+    "TARGET_NBL_ClinicalData_Discovery_20220125.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000467/TARGET_NBL_ClinicalData_Discovery_20220125.xlsx",
+    "TARGET_NBL_ClinicalData_Validation_20220125.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000467/TARGET_NBL_ClinicalData_Validation_20220125.xlsx",
     "isTarget": true
   },
   "phs000468": {
-    "phs000468_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs000468/phs000468_CCDI_Study_Manifest_v2.0.0.xlsx",
+    "TARGET_OS_ClinicalData_Discovery_20210520.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/target/phs000468/TARGET_OS_ClinicalData_Discovery_20210520.xlsx",
+    "TARGET_OS_ClinicalData_Validation_20211108.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/target/phs000468/TARGET_OS_ClinicalData_Validation_20211108.xlsx",
     "isTarget": true
   },
   "phs000469": {
-    "phs000469_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs000469/phs000469_CCDI_Study_Manifest_v2.0.0.xlsx",
+    "TARGET_MDLS-NBL_ClinicalData_20151124.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/target/phs000469/TARGET_MDLS-NBL_ClinicalData_20151124.xlsx",
     "isTarget": true
   },
   "phs000470": {
-    "TARGET_RT_ClinicalData_Discovery_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/TARGET-RT_clinicalData_PUBLIC_20220209/TARGET_RT_ClinicalData_Discovery_20211111.xlsx",
-    "TARGET_RT_ClinicalData_Validation_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/TARGET-RT_clinicalData_PUBLIC_20220209/TARGET_RT_ClinicalData_Validation_20211111.xlsx",
+    "TARGET_RT_ClinicalData_Discovery_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000470/TARGET_RT_ClinicalData_Discovery_20211111.xlsx",
+    "TARGET_RT_ClinicalData_Validation_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000470/TARGET_RT_ClinicalData_Validation_20211111.xlsx",
     "isTarget": true
   },
   "phs000471": {
-    "TARGET_WT_ClinicalData_Discovery_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/TARGET-WT_clinicalData_PUBLIC_20220131/TARGET_WT_ClinicalData_Discovery_20211111.xlsx",
-    "TARGET_WT_ClinicalData_Validation_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/TARGET-WT_clinicalData_PUBLIC_20220131/TARGET_WT_ClinicalData_Validation_20211111.xlsx",
+    "TARGET_WT_ClinicalData_Discovery_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000471/TARGET_WT_ClinicalData_Discovery_20211111.xlsx",
+    "TARGET_WT_ClinicalData_Validation_20211111.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000471/TARGET_WT_ClinicalData_Validation_20211111.xlsx",
     "isTarget": true
   },
   "phs000720": {
