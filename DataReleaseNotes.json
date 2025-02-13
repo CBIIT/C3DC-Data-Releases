@@ -1,138 +1,253 @@
 {
   "HEADING": "Release Notes",
   "VERSIONS": [
-  {
-    "id": "4.0",
-    "versionNumber": "v4.0",
-    "releaseDate": "November 7, 2024",
-    "subHeading": "Study Overview",
-    "heading": "Data Release 4.0",
-    "content": [
-      {
-        "paragraph": "UCSF Database for the Advancement of JMML - Integration of Metadata with \"Omic\" Data (Dataset Update) - phs002504",
-        "list": ["195 Participants", "1 Diagnosis"]
-      },
-      {
-        "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies for Research, Diagnostic, and Precision Medicine (Dataset Update) - phs002517",
-        "list": ["3,876 Participants", "65 Diagnoses"]
-      },
-      {
-        "paragraph": "Molecular Characterization Initiative (Dataset Update) - phs002790",
-        "list": ["3,558 Participants", "217 Diagnoses"]
-      },
-      {
-        "paragraph": "Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia (New Dataset) - phs003432",
-        "list": ["43 Participants", "1 Diagnosis"]
-      },
-      {
-        "paragraph": "Single-Cell Atlas of NF1 Nerve Sheath Tumors (New Dataset) - phs003519",
-        "list": ["29 Participants", "1 Diagnosis"]
-      },
-      {
-        "paragraph": "TARGET: Kidney, Clear Cell Sarcoma of the Kidney (CCSK) (New Dataset) - phs000466",
-        "list": ["13 Participants", "1 Diagnosis"]
-      }
-    ]
-  },
-  {
-    "id": "3.0",
-    "versionNumber": "v3.0",
-    "releaseDate": "July 31, 2024",
-    "subHeading": "Study Overview",
-    "heading": "Data Release 3.0",
-    "content": [
-      {
-        "paragraph": "TARGET: Kidney, Rhabdoid Tumor (RT) - phs000470",
-        "list": ["69 Participants", "1 Diagnosis"]
-      },
-      {
-        "paragraph": "TARGET: Kidney, Wilms Tumor (WT) - phs000471",
-        "list": ["652 Participants", "1 Diagnosis"]
-      },
-      {
-        "paragraph": "Genomic Sequencing of Pediatric Rhabdomyosarcoma - phs000720",
-        "list": ["403 Participants", "5 Diagnoses"]
-      },
-      {
-        "paragraph": "Human Tumor Atlas Network (HTAN) - phs002371",
-        "list": ["30 Participants", "4 Diagnoses"]
-      },
-      {
-        "paragraph": "Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers - phs002431",
-        "list": ["611 Participants", "156 Diagnoses"]
-      },
-      {
-        "paragraph": "Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR - phs002677",
-        "list": ["835 Participants", "105 Diagnoses"]
-      },
-      {
-        "paragraph": "CCDI Pediatric In Vivo Testing Program – Leukemia - phs003164",
-        "list": ["40 Participants", "2 Diagnoses"]
-      }
-    ]
-  },
-  {
-    "id": "2.0",
-    "versionNumber": "v2.0",
-    "releaseDate": "May 1, 2024",
-    "subHeading": "Study Overview",
-    "heading": "Data Release 2.0",
-    "content": [
-      {
-        "paragraph": "Pediatric Preclinical Testing Consortium (PPTC) - phs001437",
-        "list": ["267 Participants", "28 Diagnoses"]
-      },
-      {
-        "paragraph": "Genomic Analysis in Pediatric Malignancies - phs002430",
-        "list": ["231 Participants", "52 Diagnoses"]
-      },
-      {
-        "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies - phs002517",
-        "list": ["3,937 Participants", "65 Diagnoses"]
-      },
-      {
-        "paragraph": "OncoKids - NGS Panel for Pediatric Malignancies - phs002518",
-        "list": ["1,039 Participants", "90 Diagnoses"]
-      },
-      {
-        "paragraph": "UCSF Database for the Advancement of JMML - phs002504",
-        "list": ["188 Participants", "1 Diagnosis"]
-      },
-      {
-        "paragraph": "Comprehensive Genomic Sequencing of Pediatric Cancer Cases (CMRI/KUCC) - phs002529",
-        "list": ["200 Participants", "61 Diagnoses"]
-      },
-      {
-        "paragraph": "NCI CCSG CCDI Supplement Additional Genomic Submission - phs002599",
-        "list": ["104 Participants", "21 Diagnoses"]
-      },
-      {
-        "paragraph": "Feasibility and Clinical Utility of Whole Genome Profiling in Pediatric and Young Adult Cancers - phs002620",
-        "list": ["114 Participants", "43 Diagnoses"]
-      },
-      {
-        "paragraph": "Clonal Evolution During Metastatic Spread in High-Risk Neuroblastoma - phs003111",
-        "list": ["129 Participants", "1 Diagnosis"]
-      }
-    ]
-  },
-  {
-    "id": "1.0",
-    "versionNumber": "v1.0",
-    "releaseDate": "March 8, 2024",
-    "subHeading": "Study Overview",
-    "heading": "Data Release 1.0",
-    "content": [
-      {
-        "paragraph": "TARGET: Neuroblastoma (NBL) - phs000467",
-        "list": ["1,119 Participants", "3 Diagnoses"]
-      },
-      {
-        "paragraph": "Molecular Characterization Initiative - phs002790",
-        "list": ["3,564 Participants", "217 Diagnoses"]
-      }
-    ]
-  }
-]
-
+    {
+      "id": "5.0",
+      "versionNumber": "v1.4.0",
+      "releaseDate": "March 5, 2025",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 5.0",
+      "content": [
+        {
+          "paragraph": "TARGET: Osteosarcoma (OS) (New Dataset) - phs000468",
+          "list": [
+            "282 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "TARGET: Cancer Model Systems (MDLS): Cell Lines and Xenografts (including PPTP) (New Dataset) - phs000469",
+          "list": [
+            "2 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies for Research, Diagnostic, and Precision Medicine (Update Dataset) - phs002517",
+          "list": [
+            "3,875 Participants",
+            "65 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Clonal Evolution During Metastatic Spread in High-Risk Neuroblastoma (Temporarily Removed Dataset) - phs003111",
+          "list": [
+            "129 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Feasibility and Clinical Utility of Whole Genome Profiling in Pediatric and Young Adult Cancers (Temporarily Removed Dataset) - phs002620",
+          "list": [
+            "114 Participants",
+            "43 Diagnoses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4.0",
+      "versionNumber": "v4.0",
+      "releaseDate": "November 7, 2024",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 4.0",
+      "content": [
+        {
+          "paragraph": "UCSF Database for the Advancement of JMML - Integration of Metadata with \"Omic\" Data (Dataset Update) - phs002504",
+          "list": [
+            "195 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies for Research, Diagnostic, and Precision Medicine (Dataset Update) - phs002517",
+          "list": [
+            "3,876 Participants",
+            "65 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization Initiative (Dataset Update) - phs002790",
+          "list": [
+            "3,558 Participants",
+            "217 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia (New Dataset) - phs003432",
+          "list": [
+            "43 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Single-Cell Atlas of NF1 Nerve Sheath Tumors (New Dataset) - phs003519",
+          "list": [
+            "29 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "TARGET: Kidney, Clear Cell Sarcoma of the Kidney (CCSK) (New Dataset) - phs000466",
+          "list": [
+            "13 Participants",
+            "1 Diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3.0",
+      "versionNumber": "v3.0",
+      "releaseDate": "July 31, 2024",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 3.0",
+      "content": [
+        {
+          "paragraph": "TARGET: Kidney, Rhabdoid Tumor (RT) - phs000470",
+          "list": [
+            "69 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "TARGET: Kidney, Wilms Tumor (WT) - phs000471",
+          "list": [
+            "652 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Genomic Sequencing of Pediatric Rhabdomyosarcoma - phs000720",
+          "list": [
+            "403 Participants",
+            "5 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) - phs002371",
+          "list": [
+            "30 Participants",
+            "4 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers - phs002431",
+          "list": [
+            "611 Participants",
+            "156 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR - phs002677",
+          "list": [
+            "835 Participants",
+            "105 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "CCDI Pediatric In Vivo Testing Program – Leukemia - phs003164",
+          "list": [
+            "40 Participants",
+            "2 Diagnoses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2.0",
+      "versionNumber": "v2.0",
+      "releaseDate": "May 1, 2024",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 2.0",
+      "content": [
+        {
+          "paragraph": "Pediatric Preclinical Testing Consortium (PPTC) - phs001437",
+          "list": [
+            "267 Participants",
+            "28 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Genomic Analysis in Pediatric Malignancies - phs002430",
+          "list": [
+            "231 Participants",
+            "52 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies - phs002517",
+          "list": [
+            "3,937 Participants",
+            "65 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "OncoKids - NGS Panel for Pediatric Malignancies - phs002518",
+          "list": [
+            "1,039 Participants",
+            "90 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "UCSF Database for the Advancement of JMML - phs002504",
+          "list": [
+            "188 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Comprehensive Genomic Sequencing of Pediatric Cancer Cases (CMRI/KUCC) - phs002529",
+          "list": [
+            "200 Participants",
+            "61 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "NCI CCSG CCDI Supplement Additional Genomic Submission - phs002599",
+          "list": [
+            "104 Participants",
+            "21 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Feasibility and Clinical Utility of Whole Genome Profiling in Pediatric and Young Adult Cancers - phs002620",
+          "list": [
+            "114 Participants",
+            "43 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Clonal Evolution During Metastatic Spread in High-Risk Neuroblastoma - phs003111",
+          "list": [
+            "129 Participants",
+            "1 Diagnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1.0",
+      "versionNumber": "v1.0",
+      "releaseDate": "March 8, 2024",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 1.0",
+      "content": [
+        {
+          "paragraph": "TARGET: Neuroblastoma (NBL) - phs000467",
+          "list": [
+            "1,119 Participants",
+            "3 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization Initiative - phs002790",
+          "list": [
+            "3,564 Participants",
+            "217 Diagnoses"
+          ]
+        }
+      ]
+    }
+  ]
 }
