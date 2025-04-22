@@ -1,4 +1,19 @@
 {
+  "phs000463": {
+    "TARGET_ALL_ClinicalData_Phase_I_20190325.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000463/TARGET_ALL_ClinicalData_Phase_I_20190325.xlsx",
+    "isTarget": true
+  },
+  "phs000464": {
+    "TARGET_ALL_ClinicalData_Phase_II_Discovery_20211118.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000464/TARGET_ALL_ClinicalData_Phase_II_Discovery_20211118.xlsx",
+    "TARGET_ALL_ClinicalData_Phase_II_Validation_20211118.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000464/TARGET_ALL_ClinicalData_Phase_II_Validation_20211118.xlsx",
+    "TARGET_ALL_ClinicalData_Phase_III_20181213.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000464/TARGET_ALL_ClinicalData_Phase_III_20181213.xlsx",
+    "isTarget": true
+  },
+  "phs000465": {
+    "TARGET_AML_ClinicalData_Discovery_20211201.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000465/TARGET_AML_ClinicalData_Discovery_20211201.xlsx",
+    "TARGET_AML_ClinicalData_Validation_20211201.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000465/TARGET_AML_ClinicalData_Validation_20211201.xlsx",
+    "isTarget": true
+  },
   "phs000466": {
     "TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000466/TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx",
     "isTarget": true
@@ -28,57 +43,51 @@
     "isTarget": true
   },
   "phs000720": {
-    "phs000720_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs000720/phs000720_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs000720_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs000720/phs000720_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs001437": {
-    "phs001437_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs001437/phs001437_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs001437_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs001437/phs001437_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002371": {
-    "phs002371_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002371/phs002371_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002371_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002371/phs002371_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002430": {
-    "phs002430_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002430/phs002430_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002430_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002430/phs002430_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002431": {
-    "phs002431_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002431/phs002431_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002431_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002431/phs002431_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002504": {
-    "phs002504_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002504/phs002504_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002504_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002504/phs002504_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002517": {
-    "phs002517_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002517/phs002517_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002517_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002517/phs002517_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002518": {
-    "phs002518_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002518/phs002518_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002518_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002518/phs002518_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002529": {
-    "phs002529_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002529/phs002529_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002529_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002529/phs002529_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002599": {
-    "phs002599_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002599/phs002599_CCDI_Study_Manifest_v2.0.0.xlsx"
-  },
-  "phs002620": {
-    "phs002620_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002620/phs002620_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002599_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002599/phs002599_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002677": {
-    "phs002677_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002677/phs002677_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002677_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002677/phs002677_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs002790": {
-    "phs002790_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002790/phs002790_CCDI_Study_Manifest_v2.0.0.xlsx"
-  },
-  "phs003111": {
-    "phs003111_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003111/phs003111_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs002790_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs002790/phs002790_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs003163": {
-    "phs003163_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003163/phs003163_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs003163_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003163/phs003163_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs003164": {
-    "phs003164_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003164/phs003164_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs003164_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003164/phs003164_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs003432": {
-    "phs003432_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003432/phs003432_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs003432_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003432/phs003432_CCDI_Study_Manifest_v2.1.0.xlsx"
   },
   "phs003519": {
-    "phs003519_CCDI_Study_Manifest_v2.0.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003519/phs003519_CCDI_Study_Manifest_v2.0.0.xlsx"
+    "phs003519_CCDI_Study_Manifest_v2.1.0.xlsx": "https://d2ugardyiv9yoe.cloudfront.net/ccdi/phs003519/phs003519_CCDI_Study_Manifest_v2.1.0.xlsx"
   }
 }
