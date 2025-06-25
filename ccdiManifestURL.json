@@ -1,4 +1,19 @@
 {
+  "phs000463": {
+    "TARGET_ALL_ClinicalData_Phase_I_20190325.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000463/TARGET_ALL_ClinicalData_Phase_I_20190325.xlsx",
+    "isTarget": true
+  },
+  "phs000464": {
+    "TARGET_ALL_ClinicalData_Phase_II_Discovery_20211118.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000464/TARGET_ALL_ClinicalData_Phase_II_Discovery_20211118.xlsx",
+    "TARGET_ALL_ClinicalData_Phase_II_Validation_20211118.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000464/TARGET_ALL_ClinicalData_Phase_II_Validation_20211118.xlsx",
+    "TARGET_ALL_ClinicalData_Phase_III_20181213.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000464/TARGET_ALL_ClinicalData_Phase_III_20181213.xlsx",
+    "isTarget": true
+  },
+  "phs000465": {
+    "TARGET_AML_ClinicalData_Discovery_20211201.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000465/TARGET_AML_ClinicalData_Discovery_20211201.xlsx",
+    "TARGET_AML_ClinicalData_Validation_20211201.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000465/TARGET_AML_ClinicalData_Validation_20211201.xlsx",
+    "isTarget": true
+  },
   "phs000466": {
     "TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx": "https://d2l5jy2ao2mx5b.cloudfront.net/target/phs000466/TARGET_CCSK_ClinicalData_Discovery_20170525.xlsx",
     "isTarget": true
