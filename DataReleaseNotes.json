@@ -2,6 +2,92 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "7.0",
+      "versionNumber": "v1.7.0",
+      "releaseDate": "October 22, 2025",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 7.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Survivor Study (CCSS) (New Dataset) - phs001327",
+          "list": [
+            "517 Participants",
+            "0 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Pediatric T-Cell Acute Lymphoblastic Leukemia (New Dataset) - phs002276",
+          "list": [
+            "1,358 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Feasibility and Clinical Utility of Whole Genome Profiling in Pediatric and Young Adult Cancers (New Dataset) - phs002620",
+          "list": [
+            "113 Participants",
+            "42 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "NCI-COG Pediatric MATCH Precision Medicine Clinical Trial (New Dataset) - phs002883",
+          "list": [
+            "1,239 Participants",
+            "136 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Clonal Evolution During Metastatic Spread in High-Risk Neuroblastoma (New Dataset) - phs003111",
+          "list": [
+            "129 Participants",
+            "0 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Pediatric In Vivo Testing Program – Sarcoma, Kidney, and Liver Cancers (New Dataset) - phs003160",
+          "list": [
+            "53 Participants",
+            "12 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Pediatric In Vivo Testing Program – Sarcomas and other Solid Tumors (New Dataset) - phs003161",
+          "list": [
+            "175 Participants",
+            "41 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "TARGET: Acute Lymphoblastic Leukemia (ALL) Expansion Phase 2 (Updated Dataset) - phs000464",
+          "list": [
+            "1,704 Participants",
+            "8 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "UCSF Database for the Advancement of JMML - Integration of Metadata with Omic Data (Updated Dataset) - phs002504",
+          "list": [
+            "220 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies for Research, Diagnostic, and Precision Medicine (Update Dataset) - phs002517",
+          "list": [
+            "3,941 Participants",
+            "64 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization Initiative (Update Dataset) - phs002790",
+          "list": [
+            "5,653 Participants",
+            "236 Diagnoses"
+          ]
+        }
+      ]
+    },
+    {
       "id": "6.0",
       "versionNumber": "v1.6.0",
       "releaseDate": "June 18, 2025",
