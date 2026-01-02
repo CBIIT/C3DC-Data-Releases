@@ -2,6 +2,99 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "8.0",
+      "versionNumber": "v1.8.0",
+      "releaseDate": "February 4, 2026",
+      "subHeading": "Study Overview",
+      "heading": "Data Release 8.0",
+      "content": [
+        {
+          "paragraph": "Gabriella Miller Kids First (GMKF) Pediatric Research Program in Susceptibility to Ewing Sarcoma Based on Germline Risk and Familial History of Cancer (New Dataset) - phs001228",
+          "list": [
+            "1,287 Participants",
+            "12 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program: An Integrated Clinical and Genomic Analysis of Treatment Failure in Pediatric Osteosarcoma (New Dataset) - phs001714",
+          "list": [
+            "84 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Kids First Pediatric Research Study in Familial Predisposition to Hematopoietic Malignancies (SJFAMILY-HM) (New Dataset) - phs001738",
+          "list": [
+            "185 Participants",
+            "26 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Genetics at the Intersection of Childhood Cancer and Birth Defects (New Dataset) - phs001846",
+          "list": [
+            "1,777 Participants",
+            "112 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Novel Cancer Susceptibility in Families (from BASIC3) (New Dataset) - phs001878",
+          "list": [
+            "718 Participants",
+            "92 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Germline and Somatic Variants in Myeloid Malignancies in Children (New Dataset) - phs002187",
+          "list": [
+            "60 Participants",
+            "1 Diagnosis"
+          ]
+        },
+        {
+          "paragraph": "Kids First: Genetics of Pediatric Germ Cell Tumors (New Dataset) - phs002322",
+          "list": [
+            "356 Participants",
+            "5 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Texas Pediatric Patient Derived Xenograft (New Dataset) - phs003215",
+          "list": [
+            "51 Participants",
+            "14 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Survivor Study (CCSS) (Updated Dataset) - phs001327",
+          "list": [
+            "30,717 Participants",
+            "124 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) (Updated Dataset) - phs002371",
+          "list": [
+            "69 Participants",
+            "5 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization across Pediatric Brain Tumors and Other Solid and Hematologic Malignancies for Research, Diagnostic, and Precision Medicine (Update Dataset) - phs002517",
+          "list": [
+            "4,033 Participants",
+            "66 Diagnoses"
+          ]
+        },
+        {
+          "paragraph": "Molecular Characterization Initiative (Update Dataset) - phs002790",
+          "list": [
+            "7,023 Participants",
+            "316 Diagnoses"
+          ]
+        }
+      ]
+    },
+    {
       "id": "7.0",
       "versionNumber": "v1.7.0",
       "releaseDate": "October 22, 2025",
